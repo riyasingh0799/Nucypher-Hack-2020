@@ -28,4 +28,5 @@ Before deploying, execute nucypher ursula run --dev --federated-only in virtual 
 4.) Start client app with the command cd client && yarn start  
 5.) The app is running at the port 3001  
 
-
+### License 
+This project is licensed under the terms of MIT License.
